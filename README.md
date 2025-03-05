@@ -160,9 +160,9 @@ public class TestListener implements Listener {
 
 ## 📢 Latest Release
 
-🚀 **Version:** `1.0.0`
-📅 **Release Date:** `March 5, 2025`
-📦 **Available on**:
+- 🚀 **Version:** `1.0.0`
+- 📅 **Release Date:** `March 5, 2025`
+- 📦 **Available on**:
 [![Splatgames Nexus](https://img.shields.io/badge/repository-Splatgames.de-orange)](https://nexus.splatgames.de/repository/maven-public/)
 
 ---
