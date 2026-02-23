@@ -5,8 +5,8 @@ Aether Events is a powerful asynchronous event system for the JVM.
 It enables modular and flexible event processing with support for synchronous and asynchronous events, event pipelines,
 and cancellable events.
 
-> [!WARNING]
-> ## ⚠️ Project Discontinued
+> [!CAUTION]
+> ## ❌ Project Discontinued
 >
 > This repository is no longer maintained due to structural changes within **Splatgames.de Software**.
 >
